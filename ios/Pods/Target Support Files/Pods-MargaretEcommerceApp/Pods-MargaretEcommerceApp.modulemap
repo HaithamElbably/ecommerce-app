@@ -1,0 +1,6 @@
+module Pods_MargaretEcommerceApp {
+  umbrella header "Pods-MargaretEcommerceApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
